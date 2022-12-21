@@ -1,0 +1,16 @@
+org\examplenew\repos\UserRepository.class
+org\examplenew\service\CustomUserDetailsService.class
+org\examplenew\repos\RoleRepository.class
+org\examplenew\ServingWebContentApplication.class
+org\examplenew\config\JwtProvider.class
+org\examplenew\request\LogInRequest.class
+org\examplenew\service\UserService.class
+org\examplenew\response\AuthResponse.class
+org\examplenew\config\JwtFilter.class
+org\examplenew\controller\AuthController.class
+org\examplenew\config\CustomUserDetails.class
+org\examplenew\entity\User.class
+org\examplenew\entity\Role.class
+org\examplenew\entity\UserRole.class
+org\examplenew\request\RegisterRequest.class
+org\examplenew\config\SecurityConfig.class
